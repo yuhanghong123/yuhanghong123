@@ -14,4 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhanghong123&show_icons=true&locale=en&count_private=true" alt="yuhanghong123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuhanghong123&count_private=true" alt="yuhanghong123" /></p>
